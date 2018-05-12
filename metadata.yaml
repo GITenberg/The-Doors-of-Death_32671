@@ -1,0 +1,28 @@
+_repo: The-Doors-of-Death_32671
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32671-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Waltermire, Arthur B.
+    alias: Waltermire, Arthur Beecher
+    birthdate: 1888
+    deathdate: 1938
+    gutenberg_agent_id: '35981'
+    url: http://www.gutenberg.org/2009/agents/35981
+description: ''
+gutenberg_issued: '2010-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32671'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: The Doors of Death
+url: http://www.gutenberg.org/ebooks/32671
